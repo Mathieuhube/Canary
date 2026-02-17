@@ -1,4 +1,4 @@
-The Canary - Small Analysis
+The Canary - Small Analysis (A 15min curiosity project)
 
 This repository combines automated data engineering with macro-economic analysis to monitor market health and portfolio performance. 
 It uses a "Canary" model to detect shifts in market regimes based on the relationship between global equities and gold.
